@@ -6,7 +6,7 @@
 
 ชื่อ-สกุล : รัชชานนท์ ไชยวงค์
 
-Vercel URL :
+Vercel URL : https://lab08-2567-660610789.vercel.app/
 
 ---
 
